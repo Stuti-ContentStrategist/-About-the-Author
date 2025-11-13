@@ -1,10 +1,8 @@
 # ✍️ About the Author
 
-## 🧾 About the Author
+**Stuti Sanghvi** is a Technical Writer and Content Strategist who transforms complex tools into clear, intuitive experiences.
 
-**Stuti Sanghvi** is a Technical Writer and Content Strategist who focuses on making complex tools easier to understand and use.
-
-She enjoys creating clear, structured documentation that supports users, developers, and product teams throughout the entire product journey.
+She specializes in creating structured, user-friendly content that supports developers, end users, and product teams at every stage of the product lifecycle.
 
 ***
 
@@ -13,10 +11,10 @@ She enjoys creating clear, structured documentation that supports users, develop
 Stuti’s work centers on clarity, usefulness, and consistency. She has experience creating:
 
 * User guides and onboarding documentation
-* SDK and API references
-* Knowledge bases and troubleshooting articles
+* SDKs and API references
+* Knowledge bases and troubleshooting content
 * Release notes and changelogs
-* Style and contributor guidelines
+* Style guides and contributor guidelines
 
 She approaches technical writing as a problem-solving process—helping readers complete tasks confidently, with minimal friction.
 
@@ -24,44 +22,72 @@ She approaches technical writing as a problem-solving process—helping readers 
 
 ### 📈 Content Strategy & Digital Marketing
 
-In addition to documentation, Stuti works on content that supports product communication and user engagement, including:
+Alongside documentation, Stuti works on content that strengthens product communication and user engagement, including:
 
 * Website and product messaging
 * Landing pages and feature explainers
-* Blog posts and educational content
+* Educational blogs and thought-leadership pieces
 * Email communication and campaign support
 * Social media copy and visual content planning
-* Keyword research and SEO-focused content organization
+* Keyword research and SEO-aligned content organization
 
-She enjoys combining clarity in writing with thoughtful content planning to make information accessible and meaningful.
+She blends clarity in writing with thoughtful content strategy to make information meaningful and easy to navigate.
 
 ***
 
 ### 🎨 Information Architecture & Content Design
 
-Stuti also focuses on how content is organized. Her work includes:
+Stuti focuses on how content is structured, organized, and experienced. Her work includes:
 
-* Structuring multi-guide documentation suites
-* Designing clear navigation systems
-* Creating reusable templates and content standards
-* Ensuring consistency across different types of content
-* Supporting teams with documentation workflows
+* Designing multi-guide documentation suites
+* Building intuitive navigation systems
+* Creating reusable templates and standards
+* Ensuring consistency across content formats
+* Supporting teams with end-to-end documentation workflows
 
-She believes that good documentation is not only well-written—it's easy to find, understand, and navigate.
+She believes good documentation is not only well-written—it must also be easy to find, follow, and trust.
+
+***
+
+### 📽 Multimedia & Visual Communication
+
+To make content more intuitive, Stuti integrates multimedia elements that help users learn faster, such as:
+
+* Annotated screenshots and step-by-step visual guides
+* Short demo videos and screen-recorded tutorials
+* GIF-based micro-walkthroughs
+* UI mockups, diagrams, and interface visualizations
+* Consistent visual design for guides, FAQs, and knowledge bases
+
+She aims to reduce cognitive load and help readers understand tasks at a glance.
+
+***
+
+### 🧰 Software & Tools
+
+Stuti works with a wide range of tools across writing, documentation, design, and multimedia — enabling her to create polished, accurate, and visually engaging content. Her toolkit includes:
+
+* **Writing & editing:** Google Docs, Microsoft Word, Grammarly, HelpNDoc
+* **Documentation & systems:** GitBook, Notion, Confluence, GitHub
+* **Visual & design:** Canva, GIMP, Figma, Snagit, ShareX, Lightshot
+* **Screen recording & video:** Camtasia, Loom
+* **Collaboration & workflow:** Trello, Slack, Google Workspace
+
+This diverse toolset allows her to work efficiently across technical writing, content design, multimedia creation, and documentation systems.
 
 ***
 
 ### 🎯 Writing Approach
 
-Across all her work, Stuti aims to write content that is:
+Across all her work, Stuti aims to create content that is:
 
 * Simple and approachable
-* Accurate and reliable
+* Accurate and trustworthy
 * Helpful and task-focused
-* Consistent in tone and structure
-* Designed with the reader’s real needs in mind
+* Consistent in tone, structure, and design
+* Centered around real user needs
 
-Her goal is always to create a smoother, more intuitive experience for users.
+Her goal is always to craft smoother, more intuitive experiences—whether through words, visuals, or carefully structured documentation.
 
 ***
 
@@ -69,5 +95,5 @@ Her goal is always to create a smoother, more intuitive experience for users.
 
 💼 [LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
 💌 [Email](mailto:stutisanghvi7@gmail.in)\
-🌐 [Portfolio (via Notion](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1))\
+🌐[ Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
 🔗 [GitHub](https://github.com/Stuti-ContentStrategist)
