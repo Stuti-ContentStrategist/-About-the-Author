@@ -91,9 +91,9 @@ Her goal is always to craft smoother, more intuitive experiences—whether throu
 
 ***
 
-### **Connect with the Author:**
+### **Connect with the Author**
 
-💼 [LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
-💌 [Email](mailto:stutisanghvi7@gmail.in)\
-🌐[ Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
-🔗 [GitHub](https://github.com/Stuti-ContentStrategist)
+**💼** [**LinkedIn**](https://linkedin.com/in/stuti-sanghvi)\
+**💌** [**Email**](mailto:stutisanghvi7@gmail.in)\
+**🌐**[ **Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
+**🔗** [**GitHub**](https://github.com/Stuti-ContentStrategist)
