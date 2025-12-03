@@ -6,7 +6,7 @@ She specializes in creating structured, user-friendly content that supports deve
 
 ***
 
-### 🛠 Technical Writing & Documentation
+### Technical Writing & Documentation
 
 Stuti’s work centers on clarity, usefulness, and consistency. She has experience creating:
 
@@ -20,7 +20,7 @@ She approaches technical writing as a problem-solving process—helping readers 
 
 ***
 
-### 📈 Content Strategy & Digital Marketing
+### Content Strategy & Digital Marketing
 
 Alongside documentation, Stuti works on content that strengthens product communication and user engagement, including:
 
@@ -35,7 +35,7 @@ She blends clarity in writing with thoughtful content strategy to make informati
 
 ***
 
-### 🎨 Information Architecture & Content Design
+### Information Architecture & Content Design
 
 Stuti focuses on how content is structured, organized, and experienced. Her work includes:
 
@@ -49,7 +49,7 @@ She believes good documentation is not only well-written—it must also be easy 
 
 ***
 
-### 📽 Multimedia & Visual Communication
+### Multimedia & Visual Communication
 
 To make content more intuitive, Stuti integrates multimedia elements that help users learn faster, such as:
 
@@ -69,9 +69,9 @@ Stuti works with a wide range of tools across writing, documentation, design, an
 
 * **Writing & editing:** Google Docs, Microsoft Word, Grammarly, HelpNDoc
 * **Documentation & systems:** GitBook, Notion, Confluence, GitHub
-* **Visual & design:** Canva, GIMP, Figma, Snagit, ShareX, Lightshot
-* **Screen recording & video:** Camtasia, Loom
-* **Collaboration & workflow:** Trello, Slack, Google Workspace
+* **Visual & design:** Canva, Snagit, ShareX
+* **Screen recording & video:** Camtasia
+* **Collaboration & workflow:** Slack, Google Workspace
 
 This diverse toolset allows her to work efficiently across technical writing, content design, multimedia creation, and documentation systems.
 
