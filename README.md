@@ -1,4 +1,4 @@
-# ✍️ About the Author
+# About the Author
 
 **Stuti Sanghvi** is a Technical Writer and Content Strategist who transforms complex tools into clear, intuitive experiences.
 

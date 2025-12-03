@@ -1,3 +1,3 @@
 # Table of contents
 
-* [✍️ About the Author](README.md)
+* [About the Author](README.md)
