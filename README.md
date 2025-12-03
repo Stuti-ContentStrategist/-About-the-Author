@@ -63,7 +63,7 @@ She aims to reduce cognitive load and help readers understand tasks at a glance.
 
 ***
 
-### 🧰 Software & Tools
+### Software & Tools
 
 Stuti works with a wide range of tools across writing, documentation, design, and multimedia — enabling her to create polished, accurate, and visually engaging content. Her toolkit includes:
 
@@ -77,7 +77,7 @@ This diverse toolset allows her to work efficiently across technical writing, co
 
 ***
 
-### 🎯 Writing Approach
+### Writing Approach
 
 Across all her work, Stuti aims to create content that is:
 
