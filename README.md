@@ -63,17 +63,33 @@ She aims to reduce cognitive load and help readers understand tasks at a glance.
 
 ***
 
-### Software & Tools
+### Software & Toolkit
 
-Stuti works with a wide range of tools across writing, documentation, design, and multimedia — enabling her to create polished, accurate, and visually engaging content. Her toolkit includes:
+Stuti works with a wide range of tools across writing, documentation, design, and multimedia — enabling her to create polished, accurate, and visually engaging technical content. Her toolkit includes:
 
-* **Writing & editing:** Google Docs, Microsoft Word, Grammarly, HelpNDoc
-* **Documentation & systems:** GitBook, Notion, Confluence, GitHub
-* **Visual & design:** Canva, Snagit, ShareX
-* **Screen recording & video:** Camtasia
-* **Collaboration & workflow:** Slack, Google Workspace
+#### **Writing & Editing**
 
-This diverse toolset allows her to work efficiently across technical writing, content design, multimedia creation, and documentation systems.
+Google Docs · Microsoft Word · Grammarly · HelpNDoc
+
+#### **Documentation Systems**
+
+GitBook · Notion · Confluence · GitHub (basic use) · **MkDocs (Material Theme)** · **Visual Studio Code** · **Netlify (documentation hosting)**
+
+#### **Visual & Design**
+
+Canva · Snagit · ShareX
+
+#### **Screen Recording & Video**
+
+Camtasia
+
+#### **Collaboration & Workflow**
+
+Slack · Google Workspace
+
+#### **Markdown**
+
+Markdown for documentation and API guides
 
 ***
 
